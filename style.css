@@ -1,0 +1,12 @@
+.main-container {
+  box-shadow: 3px 3px 3px grey;
+  /* border: 1px solid black; */
+  background: rgba(251, 231, 206, 0.98);
+  height: 70vh;
+  border-radius: 4px;
+  padding: 8%;
+  margin-top: 5%;
+}
+.some-padding{
+	padding: 5% !important;
+}
